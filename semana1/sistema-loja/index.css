@@ -1,0 +1,14 @@
+header {
+    background-color: burlywood;
+    text-align: center;
+}
+
+footer {
+    background-color: burlywood;
+    text-align: center;
+}
+
+div {
+    display: list-item;
+    text-align: center;
+}
