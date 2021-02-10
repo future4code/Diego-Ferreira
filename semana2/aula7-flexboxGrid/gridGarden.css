@@ -1,0 +1,30 @@
+step1: grid-column-start: 3;
+step2: grid-column-start: 5;
+step3: grid-column-end: 4;
+step4: grid-column-end: 2;
+step5: grid-column-end: -2;
+step6: grid-column-start: -3;
+step7: grid-column-end: span 2;
+step8: grid-column-end: span 5;
+step9: grid-column-start: span 3;
+step10: grid-column: 6 / 4;
+step11: grid-column: span 3 / 5;
+step12: grid-row-start: 3
+step13: grid-row: 3 / 6;
+step14: grid-column: 2;
+	grid-row: 5;
+step15: grid-column: 2 / 9;
+	grid-row: 6 / 1;
+step16: grid-area: 1 /2 /4 /6;
+step17: grid-area: 2 / 3 / 5 / 6;
+step18: order: 1;
+step19: order: -1;
+step20: grid-template-columns: 50%;
+step21: grid-template-columns: repeat(1, 12.5%);
+step22: grid-template-columns: 100px 3em 40%;
+step23: grid-template-columns: 1fr 5fr;
+step24: game over
+step25: game over
+step26: game over
+step27: game over
+step28: game over
