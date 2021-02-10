@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    background-color: darkorange;
+    height: 100px;
+    justify-content: space-between;
+}
+
+.titulo {
+    font-size: 50px;
+    color: black
+}
+
+.busca {
+    display: flex;
+    height: 50px;
+    width: 100px;
+}
+
+/* Término do cabeçalho. */
+
+.flex-container {
+    display: flex;
+}
+
+div img {
+    height: 200px;
+    width: 300px;
+}
+
+/* Témino do contéudo principal. */
+footer {
+    background-color: gray;
+    color: honeydew;
+    font-size: 50px;
+    height: 100px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 15px 15px 15px 15px;
+}
+/* Término do footer. */
